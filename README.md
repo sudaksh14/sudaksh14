@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudaksh14
+- 👋 Hi, I’m Sudaksh Kalra
 - 👀 I’m interested in machine learning application in mobility
 - 🌱 I’m currently learning python modules for implementing neural networks
 - 💞️ I’m looking to collaborate on python based projects to enhance my learning further
