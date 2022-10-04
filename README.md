@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudaksh Kalra
-- 👀 I’m interested in machine learning application in mobility
-- 🌱 I’m currently learning python modules for implementing neural networks
-- 💞️ I’m looking to collaborate on python based projects to enhance my learning further
+- 👀 I’m interested in machine learning applications in mobility
+- 🌱 I’m currently learning about Graph Neural Networks
+- 💞️ I’m looking to collaborate on interesting projects to enhance my learning further
 - 📫 reach me on linked in : linkedin.com/in/sudaksh-kalra-140496
 
 <!---
