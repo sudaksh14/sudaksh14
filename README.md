@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudaksh Kalra
-- 👀 I’m interested in machine learning applications in mobility
-- 🌱 I’m currently learning about Graph Neural Networks
+- 👀 I’m interested in machine learning applications in Production Technology
+- 🌱 I’m currently learning about Graph Neural Networks, Deep Learning for Time Series Data and Continual AI
 - 💞️ I’m looking to collaborate on interesting projects to enhance my learning further
 - 📫 reach me on linked in : linkedin.com/in/sudaksh-kalra-140496
 
