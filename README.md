@@ -1,7 +1,3 @@
-Here’s a polished, concise, and professional version of your GitHub bio that keeps it approachable and highlights your expertise:
-
----
-
 **Hi, I’m Sudaksh Kalra 👋**
 PhD researcher at the University of Amsterdam (UvA) specializing in **EdgeAI**, **dynamic/adaptive neural networks**, and **hardware-software co-design for AI**.
 
